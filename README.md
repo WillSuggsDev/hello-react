@@ -10,8 +10,6 @@ A simple React project demonstrating basic usage of React, Redux, and state mana
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
